@@ -1,13 +1,5 @@
 # Portfolio Optimizer Using IP
 
-### Team Members
-- Lindsay Bartol
-- Pranav Garg
-- Ramzi Kattan
-- Advaith Shankar
-- Gaurav Shukla
-
----
 
 ## Table of Contents
 1. [Introduction](#introduction)
