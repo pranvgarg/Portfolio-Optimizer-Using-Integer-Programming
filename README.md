@@ -56,7 +56,7 @@ Constructing index-tracking funds traditionally involves high transaction costs 
 - **2023 (In-Sample) vs. 2024 (Out-of-Sample) Performance:**
   - Assessed stability and accuracy across different years.
 
-[alt text](image.png)
+![alt text](image.png)
 
 ---
 
