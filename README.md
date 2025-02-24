@@ -1,4 +1,4 @@
-# Optimization Project II: Integer Programming
+# Portfolio Optimizer Using IP
 
 ### Team Members
 - Lindsay Bartol
